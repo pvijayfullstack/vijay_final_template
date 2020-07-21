@@ -1,0 +1,487 @@
+[
+    {
+        "7days":  {
+            "type": {
+              "throughtput": {
+                "name": "throughtput",
+                "currencyType": "oz",
+                "price": 5345,
+                "priorDays": 7,
+                "priorYear": 1,
+                "priceUp": 11.5,
+                "priceDown": -1.5,
+                "style": "Throughtput",
+                "description": "Tralling 7 days"
+              },
+              "inventoryDollers": {
+                "name": "Inventory Dollers",
+                "currencyType": "$",
+                "price": 5345,
+                "priorDays": 7,
+                "priorYear": 1,
+                "priceUp": 11.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Dollars-Daily-Average",
+                "description": "Tralling 7 days"
+              },
+              "inventoryTunes": {
+                "name": "Inventory Tunes",
+                "price": 0.45,
+                "priorDays": 7,
+                "priorYear": 1,
+                "priceUp": 11.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "Tralling 7 days"
+              },
+              "newProduct": {
+                "name": "New Product",
+                "price": 38,
+                "priorDays": 7,
+                "priorYear": 1,
+                "priceUp": 11.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "An aggregate of Performance Comparisons bwtween your new products and all other taps"
+              },
+              "freshness": {
+                "name": "Freshness",
+                "kegsWithIn": 1,
+                "kegsWithBeyond": 7,
+                "priorDays": 7,
+                "priorYear": 1,
+                "priceUp": 11.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "Tralling 7 days"
+              },
+              "variety": {
+                "name": "Variety",
+                "price": 38,
+                "priorDays": 7,
+                "priorYear": 1,
+                "priceUp": 11.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "An aggregate analysis of the current draft program and the variety it offers your customers"
+              }
+            }
+        },
+        "30days":  {
+            "type": {
+              "throughtput": {
+                "name": "throughtput",
+                "currencyType": "oz",
+                "price": 12345,
+                "priorDays": 30,
+                "priorYear": 1,
+                "priceUp": 21.5,
+                "priceDown": -1.5,
+                "style": "Throughtput",
+                "description": "Tralling 30 days"
+              },
+              "inventoryDollers": {
+                "name": "Inventory Dollers",
+                "currencyType": "$",
+                "price": 12345,
+                "priorDays": 30,
+                "priorYear": 1,
+                "priceUp": 21.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Dollars-Daily-Average",
+                "description": "Tralling 30 days"
+              },
+              "inventoryTunes": {
+                "name": "Inventory Tunes",
+                "price": 2.45,
+                "priorDays": 30,
+                "priorYear": 1,
+                "priceUp": 21.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "Tralling 30 days"
+              },
+              "newProduct": {
+                "name": "New Product",
+                "price": 78,
+                "priorDays": 30,
+                "priorYear": 1,
+                "priceUp": 21.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "An aggregate of Performance Comparisons bwtween your new products and all other taps"
+              },
+              "freshness": {
+                "name": "Freshness",
+                "kegsWithIn": 5,
+                "kegsWithBeyond": 18,
+                "priorDays": 30,
+                "priorYear":1,
+                "priceUp": 21.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "Tralling 30 days"
+              },
+              "variety": {
+                "name": "Variety",
+                "price": 78,
+                "priorDays": 30,
+                "priorYear": 1,
+                "priceUp": 21.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "An aggregate analysis of the current draft program and the variety it offers your customers"
+              }
+            }
+        },
+        "90days":  {
+            "type": {
+              "throughtput": {
+                "name": "throughtput",
+                "currencyType": "oz",
+                "price": 32345,
+                "priorDays": 90,
+                "priorYear": 1,
+                "priceUp": 51.5,
+                "priceDown": -1.5,
+                "style": "Throughtput",
+                "description": "Tralling 90 days"
+              },
+              "inventoryDollers": {
+                "name": "Inventory Dollers",
+                "currencyType": "$",
+                "price": 32345,
+                "priorDays": 90,
+                "priorYear": 1,
+                "priceUp": 51.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Dollars-Daily-Average",
+                "description": "Tralling 90 days"
+              },
+              "inventoryTunes": {
+                "name": "Inventory Tunes",
+                "price": 5.45,
+                "priorDays": 90,
+                "priorYear": 1,
+                "priceUp": 51.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "Tralling 90 days"
+              },
+              "newProduct": {
+                "name": "New Product",
+                "price": 108,
+                "priorDays": 90,
+                "priorYear": 1,
+                "priceUp": 51.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "An aggregate of Performance Comparisons bwtween your new products and all other taps"
+              },
+              "freshness": {
+                "name": "Freshness",
+                "kegsWithIn": 15,
+                "kegsWithBeyond": 28,
+                "priorDays": 90,
+                "priorYear": 1,
+                "priceUp": 21.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "Tralling 90 days"
+              },
+              "variety": {
+                "name": "Variety",
+                "price": 108,
+                "priorDays": 30,
+                "priorYear": 1,
+                "priceUp": 51.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "An aggregate analysis of the current draft program and the variety it offers your customers"
+              }
+            }
+        },
+        "1year":  {
+            "type": {
+              "throughtput": {
+                "name": "throughtput",
+                "currencyType": "oz",
+                "price": 52345,
+                "priorDays": 365,
+                "priorYear": 1,
+                "priceUp": -1.5,
+                "priceDown": -1.5,
+                "style": "Throughtput",
+                "description": "Tralling 365 days"
+              },
+              "inventoryDollers": {
+                "name": "Inventory Dollers",
+                "currencyType": "$",
+                "price": 52345,
+                "priorDays": 365,
+                "priorYear": 1,
+                "priceUp": -11.5,
+                "priceDown": -11.5,
+                "style": "Inventory-Dollars-Daily-Average",
+                "description": "Tralling 90 days"
+              },
+              "inventoryTunes": {
+                "name": "Inventory Tunes",
+                "currencyType": "",
+                "price": 5.45,
+                "priorDays":365,
+                "priorYear": 1,
+                "priceUp": 51.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "Tralling 90 days"
+              },
+              "newProduct": {
+                "name": "New Product",
+                "currencyType": "",
+                "price": 108,
+                "priorDays": 365,
+                "priorYear": 1,
+                "priceUp": -1.5,
+                "priceDown": -1.5,
+                "style": "Inventory-Turns",
+                "description": "An aggregate of Performance Comparisons bwtween your new products and all other taps"
+              },
+              "freshness": {
+                "name": "Freshness",
+                "currencyType": "",
+                "kegsWithIn": 25,
+                "kegsWithBeyond": 38,
+                "priorDays": 365,
+                "priorYear": 1,
+                "priceUp": 51.5,
+                "priceDown": 51.5,
+                "style": "Inventory-Turns",
+                "description": "Tralling 90 days"
+              },
+              "variety": {
+                "name": "Variety",
+                "price": 78,
+                "priorDays": 365,
+                "priorYear": 1,
+                "priceUp": 21.5,
+                "priceDown": 21.5,
+                "style": "Inventory-Turns",
+                "description": "An aggregate analysis of the current draft program and the variety it offers your customers"
+              }
+            }
+        }
+    }, 
+
+
+        {
+            "throughtputAnalysis":  {
+                "name": "Throughtput Analysis",
+                    "7days": {
+                        "categories": [
+                            "American IPA",
+                            "Imperial IPA",
+                            "Coffee",
+                            "Vienna Lager",
+                            "Witbier",
+                            "Bohemian Pilsener",
+                            "Juicy/Hazy IPA",
+                            "American Pale Ale",
+                            "Barrel Aged",
+                            "Specialty Beer",
+                            "Fruit Beer",
+                            "Belgian Quad",
+                            "Fruit Melomel"
+                        ],
+                        "thisPeriod": {
+                         "name": "This Period",
+                         "data": [1000.9, 1071.5, 1006.4, 1229.2, 1444.0, 1876.0, 1335.6, 1348.5, 2416.4, 1494.1, 1345.6, 1254.4, 2416.4]
+                        },
+                        "priorPeriod": {
+                            "name": "Prior Period",
+                             "data": [1083.6, 2078.8, 2598.5, 2393.4, 1006.0, 4184.5, 3215.0, 4104.3, 3491.2, 2383.5, 5106.6, 4392.3, 2416.4]
+                           },
+                        "priorYear": {
+                            "name": "Prior Year",
+                            "data": [4428.9, 3238.8, 4339.3, 5341.4, 4347.0, 4438.3, 5439.0, 5943.6, 5243.4, 6532.2, 5932.3, 5143.2, 6416.4]
+                        },                 
+                        "currencyType": "oz",
+                        "priorDays": 7,
+                        "style": "throughtputAnalysis",
+                        "description": "Tralling 7 days"
+                    }
+                }
+            },
+    
+             {
+                "inventoryAnalysis":  {
+                    "name": "Inventory Analysis",
+                        "7days": {
+                            "categories": [
+                                "5/25",
+                                "5/26",
+                                "5/27",
+                                "5/28",
+                                "5/29",
+                                "5/30",
+                                "6/01"
+                            ],
+                            "tapped": {
+                             "name": "Tapped",
+                             "data":  [1100, 1900, 2400, 2900, 3500, 1040, 4900]
+                            },
+                            "onDeck": {
+                                "name": "On Deck",
+                                 "data":  [500, 1200, 700, 700, 900, 1040, 900]
+                               },          
+                            "currencyType": "oz",
+                            "priorDays": 7,
+                            "style": "InventoryAnalysis",
+                            "description": "Inventory 7 days"
+                        }
+                    }
+                },
+    
+                {
+                    "inventoryTurnsVariance":  {
+                        "name": "Inventory Turns Variance",
+                            "7days": {
+                                "categories": [
+                                    "5/25",
+                                    "5/26",
+                                    "5/27",
+                                    "5/28",
+                                    "5/29",
+                                    "5/30",
+                                    "6/01"
+                                ],
+                                "turns": {
+                                 "name": "Turns",
+                                 "data":  [1100, 1900, 2400, 2900, 3500, 1040, 4900]
+                                },
+                                "goal": {
+                                    "name": "Goal",
+                                     "data":  [500, 500, 500, 500, 500, 500, 500]
+                                   },          
+                                "businessGoal": 2.45,
+                                "priorDays": 7,
+                                "style": "inventoryTurnsVariance",
+                                "description": "Inventory 7 days",
+                                "nVariance": { "date": "5/25-6/1/20" , "price": -0.22 },
+                                "pVariance": { "date": "6/2-6/8/20" , "price": 0.44 }
+                            }
+                        }
+                    }, 
+    
+                    {
+                        "newProductAnalysis":  {
+                            "name": "New Product Analysis",
+                                "7days": {
+                                    "categories": [
+                                        "5/25",
+                                        "5/26",
+                                        "5/27",
+                                        "5/28",
+                                        "5/29",
+                                        "5/30",
+                                        "6/01"
+                                    ],
+                                    "allNewProducts": {
+                                     "name": "All New Products",
+                                     "data":  [1100, 1900, 2400, 2900, 3500, 1040, 4900]
+                                    },
+                                    "allOtherProducts": {
+                                        "name": "All Other Products",
+                                         "data":  [500, 550, 570, 400, 600, 300, 200]
+                                       },          
+                                    "style": "newProductAnalysis",
+                                    "description": "An aggregate of Performance Comparisons between your new products and all other taps.",
+                                    "allProductsPerDay": "943 oz/day",
+                                    "otherProductsPerDay": "1,956 oz/day",
+                                    "price": 73,
+                                    "priorDays": 7.81,
+                                    "priorYear": 6.15
+                                }
+                            }
+                        },
+    
+                        {
+                            "freshnessAnalysis":  {
+                                "name": "Freshness Analysis",
+                                    "7days": {
+                                        "categories": [
+                                            "5/25",
+                                            "5/26",
+                                            "5/27",
+                                            "5/28",
+                                            "5/29",
+                                            "5/30",
+                                            "6/01"
+                                        ],
+                                        "allNewProducts": {
+                                         "name": "All New Products",
+                                         "data":  [1100, 1900, 2400, 2900, 3500, 1040, 4900]
+                                        },
+                                        "allOtherProducts": {
+                                            "name": "All Other Products",
+                                             "data":  [500, 550, 570, 400, 600, 300, 200]
+                                           },          
+                                        "businessGoal": 2.45,
+                                        "style": "freshnessAnalysis",
+                                        "description": "Keg Freshness Comparisons",
+                                        "allProductsPerDay": "943 oz/day",
+                                        "otherProductsPerDay": "1,956 oz/day",
+                                        "price": 73,
+                                        "priorDays": 7.81,
+                                        "priorYear": 6.15
+                                    }
+                                }
+                            } ,
+    
+                            {
+                                "varietyAnalysis":  {
+                                    "name": "Variety Analysis",
+                                        "7days": {
+                                            "categories": [
+                                                "5/25",
+                                                "5/26",
+                                                "5/27",
+                                                "5/28",
+                                                "5/29",
+                                                "5/30",
+                                                "6/01"
+                                            ],
+                                            "allNewProducts": {
+                                             "name": "All New Products",
+                                             "data":  [400, 500, 550, 270, 340, 149, 390]
+                                            },
+                                            "allOtherProducts": {
+                                                "name": "All Other Products",
+                                                 "data":  [500, 500, 500, 500, 500, 500, 500]
+                                               },          
+                                            "businessGoal": 2.45,
+                                            "style": "varietyAnalysis",
+                                            "description": "An aggregate analysis of the draft program and the variety it offers your customers.",
+                                            "price": 90,
+                                            "priorDays": 7.35,
+                                            "priorYear": 12.06
+                                        }
+                                    },
+    
+                                    "productTable": {
+                                        
+                                            "product": ["Nitro Coffee", "Pseudo Sue", "Zombie Dust", "Black Tuesday", "Yellow Rose"],
+                                            "brewery": ["Riptide", "Toppiling Goliath", "Cigar City Brewing", "3 Floyds", "The Bruery", "The Lone Pint Brewery"],
+                                            "style": ["Nitro Coffee", "Pseudo Sue", "Zombie Dust", "Black Tuesday", "Yellow Rose"],
+                                            "ABV":["Nitro Coffee", "Pseudo Sue", "Zombie Dust", "Black Tuesday", "Yellow Rose"],
+                                            "DaysOnTap":["Nitro Coffee", "Pseudo Sue", "Zombie Dust", "Black Tuesday", "Yellow Rose"],
+                                            "Depletion Rate": ["Nitro Coffee", "Pseudo Sue", "Zombie Dust", "Black Tuesday", "Yellow Rose"],
+                                            "Throughput": ["Nitro Coffee", "Pseudo Sue", "Zombie Dust", "Black Tuesday", "Yellow Rose"]
+                                        }
+                                    
+         } 
+    
+   
+  ]
+
+  

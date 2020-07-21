@@ -1,0 +1,68 @@
+  [
+    {
+        "type": {
+            "throughtput" : {
+                "name": "throughtput",
+                "price": "12,345oz",
+                "priorDays": "Prior 30 days",
+                "priorYear": "Prior Year",
+                "priceUp": "21.5%",
+                "priceDown": "-1.5%",
+                "style": "Throughtput",
+                "des": "Tralling 30 days"
+            },
+            "inventoryDollers" : {
+                "name": "Inventory Dollers",
+                "price": "2.45",
+                "priorDays": "Prior 30 days",
+                "priorYear": "Prior Year",
+                "priceUp": "21.5%",
+                "priceDown": "-1.5%",
+                "style": "Inventory-Dollars-Daily-Average",
+                "des": "Tralling 30 days"
+            },
+            "inventoryTunes" : {
+                "name": "Inventory Tunes",
+                "price": "2.45",
+                "priorDays": "Prior 30 days",
+                "priorYear": "Prior Year",
+                "priceUp": "21.5%",
+                "priceDown": "-1.5%",
+                "style": "Inventory-Turns",
+                "des": "Tralling 30 days"
+            },
+            "newProduct" : {
+                "name": "New Product",
+                "price": "78",
+                "priorDays": "Prior 30 days",
+                "priorYear": "Prior Year",
+                "priceUp": "21.5%",
+                "priceDown": "-1.5%",
+                "style": "Inventory-Turns",
+                "des": "An aggregate of Performance Comparisons bwtween your new products and all other taps"
+            },
+            "freshness" : {
+                "name": "Freshness",
+                "price": "1-18",
+                "priorDays": "Prior 30 days",
+                "priorYear": "Prior Year",
+                "priceUp": "21.5%",
+                "priceDown": "-1.5%",
+                "style": "Inventory-Turns",
+                "des": "Tralling 30 days"
+            },
+            "variety" : {
+                "name": "Variety",
+                "price": "78",
+                "priorDays": "Prior 30 days",
+                "priorYear": "Prior Year",
+                "priceUp": "21.5%",
+                "priceDown": "-1.5%",
+                "style": "Inventory-Turns",
+                "des": "An aggregate analysis of the current draft program and the variety it offers your customers"
+            }
+        }
+
+         
+    }
+]
